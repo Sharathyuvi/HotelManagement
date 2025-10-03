@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-27T20:47:07 IST" name="Suite" finished-at="2025-09-27T20:48:12 IST" duration-ms="65075">
+    <groups>
+    </groups>
+    <test started-at="2025-09-27T20:47:07 IST" name="Test" finished-at="2025-09-27T20:48:12 IST" duration-ms="65075">
+      <class name="pomPageTestcases.TC_BookItinerary">
+        <test-method is-config="true" signature="OpenApplication(java.lang.String,java.lang.String)[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:08 IST" name="OpenApplication" finished-at="2025-09-27T20:47:16 IST" duration-ms="7899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://adactinhotelapp.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method signature="login()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:16 IST" name="login" finished-at="2025-09-27T20:47:20 IST" duration-ms="4573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="SearchHotel()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:20 IST" name="SearchHotel" finished-at="2025-09-27T20:47:24 IST" duration-ms="3992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchHotel -->
+        <test-method signature="SelectHotel()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:24 IST" name="SelectHotel" finished-at="2025-09-27T20:47:29 IST" duration-ms="4808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectHotel -->
+        <test-method signature="BookHotel()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:29 IST" name="BookHotel" finished-at="2025-09-27T20:47:30 IST" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookHotel -->
+        <test-method signature="BookedItinerary()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:30 IST" name="BookedItinerary" finished-at="2025-09-27T20:47:33 IST" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookedItinerary -->
+        <test-method signature="ConfirmHotel()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:47:33 IST" name="ConfirmHotel" finished-at="2025-09-27T20:48:12 IST" duration-ms="39303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmHotel -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:pomPageTestcases.TC_BookItinerary@158d2680]" started-at="2025-09-27T20:48:12 IST" name="closeapplication" finished-at="2025-09-27T20:48:12 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- pomPageTestcases.TC_BookItinerary -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
